@@ -1,6 +1,6 @@
-# Laravel5.3 CRUD Example
+# Laravel CRUD Example
 
-This application is a simple example of performing basic CRUD operations using Laravel 5.3 and MySql. This shows a simple management of Books wherein a user can add, edit and delete records of Books.
+This application is a simple example of performing basic CRUD operations using Laravel 5.3 and MySql with authentication. This shows a simple management of Books wherein a user can add, edit and delete records of Books.
 
 ## Documentation
 

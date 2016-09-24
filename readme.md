@@ -20,7 +20,7 @@ Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT license]
 
 ## Installation
 
-* `https://github.com/hectordolo/laravel-example-crud.git`
+* `git clone https://github.com/hectordolo/laravel-example-crud.git`
 * `cd laravel-example-crud`
 * `composer install`
 * `php artisan key:generate`

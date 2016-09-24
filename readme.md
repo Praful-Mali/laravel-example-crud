@@ -1,7 +1,7 @@
 # Laravel5.3 CRUD Example
 
 This is a simple example of performing CRUD using Laravel 5.3 and MySql. The design used the SB Admin 2, a bootstrap theme by [Start Bootstrap](https://startbootstrap.com/).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 ## Documentation
 
 ### Laravel
